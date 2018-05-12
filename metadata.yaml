@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/266
     wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18531#Timothy-s-QuestA-Story-for-Anybody-Young-or-Old-Who-Cares-to-Read-It
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-06-07'
 gutenberg_type: Text
